@@ -32,7 +32,7 @@
     },
     "someAppSetting": {
       "type": "string",
-      "defaultValue": "Test App Setting Value"
+      "defaultValue": "<script>alert(1)</script>"
     },
     "repoUrl": {
       "type": "string"
